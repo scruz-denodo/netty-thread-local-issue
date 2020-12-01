@@ -1,0 +1,6 @@
+/.idea/
+/netty-server/target/
+/netty-client/netty-client.iml
+/netty-client/target/
+/netty-server/netty-server.iml
+/netty-thread-local.iml
