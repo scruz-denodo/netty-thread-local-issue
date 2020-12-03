@@ -1,6 +1,6 @@
 # netty-thread-local-issue
 
-This is a sample project for reproducing an issue found using Netty at a web application deployed at http://tomcat.apache.org/.
+This is a sample project for reproducing Netty issue https://github.com/netty/netty/issues/6891.
 
 ## What happens?
 When the application is stopped at Tomcat, next error indicating a **probable memory leak** is shown at `catalina.out` log file. 
